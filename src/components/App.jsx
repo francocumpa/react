@@ -1,5 +1,5 @@
 import { Navigate, Outlet } from "react-router-dom"
-import Menu from "./menu/menu.jsx"
+import Menu from "./menu/Menu.jsx"
 import './App.css'
 
 const App = () => {
